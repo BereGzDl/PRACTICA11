@@ -1,0 +1,251 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww17860\viewh10460\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "GDLB_emp1": [\
+    \{\
+      "Apellido": "Albarran",\
+      "Nombre": "Alejandra",\
+      "Depto": "Calidad",\
+      "id_puesto": 1,\
+      "sueldo": 8577\
+    \},\
+    \{\
+      "Apellido": "Becerra",\
+      "Nombre": "Juana",\
+      "Depto": "Calidad",\
+      "id_puesto": 1,\
+      "sueldo": 4217\
+    \},\
+    \{\
+      "Apellido": "Olgu\'edn",\
+      "Nombre": "Rodrigo",\
+      "Depto": "Sistemas",\
+      "id_puesto": 1,\
+      "sueldo": 8575\
+    \},\
+    \{\
+      "Apellido": "Aranda",\
+      "Nombre": "Magaly",\
+      "Depto": "Gerencia",\
+      "id_puesto": 2,\
+      "sueldo": 4674\
+    \},\
+    \{\
+      "Apellido": "Bautista",\
+      "Nombre": "Jazmin",\
+      "Depto": "Gerencia",\
+      "id_puesto": 3,\
+      "sueldo": 8093\
+    \}\
+  ],\
+  "GDLB_emp2": [\
+    \{\
+      "Apellido": "Calvillo",\
+      "Nombre": "Angel",\
+      "Depto": "Calidad",\
+      "id_puesto": 1,\
+      "sueldo": 9000\
+    \},\
+    \{\
+      "Apellido": "Perez",\
+      "Nombre": "Juan",\
+      "Depto": "Calidad",\
+      "id_puesto": 1,\
+      "sueldo": 18000\
+    \},\
+    \{\
+      "Apellido": "Gutierrez",\
+      "Nombre": "Monserrat",\
+      "Depto": "RH",\
+      "id_puesto": 3,\
+      "sueldo": 45000\
+    \},\
+    \{\
+      "Apellido": "Aranda",\
+      "Nombre": "Magaly",\
+      "Depto": "Gerencia",\
+      "id_puesto": 2,\
+      "sueldo": 4674\
+    \}\
+  ],\
+  "proyeccion": [\
+    \{\
+      "Apellido": "Albarran",\
+      "Nombre": "Alejandra"\
+    \},\
+    \{\
+      "Apellido": "Becerra",\
+      "Nombre": "Juana"\
+    \},\
+    \{\
+      "Apellido": "Olgu\'edn",\
+      "Nombre": "Rodrigo"\
+    \},\
+    \{\
+      "Apellido": "Aranda",\
+      "Nombre": "Magaly"\
+    \},\
+    \{\
+      "Apellido": "Bautista",\
+      "Nombre": "Jazmin"\
+    \}\
+  ],\
+  "seleccion": [\
+    \{\
+      "Apellido": "Albarran",\
+      "Nombre": "Alejandra"\
+    \}\
+  ],\
+  "union": [\
+    \{\
+      "Apellido": "Albarran",\
+      "Nombre": "Alejandra"\
+    \},\
+    \{\
+      "Apellido": "Becerra",\
+      "Nombre": "Juana"\
+    \},\
+    \{\
+      "Apellido": "Olgu\'edn",\
+      "Nombre": "Rodrigo"\
+    \},\
+    \{\
+      "Apellido": "Aranda",\
+      "Nombre": "Magaly"\
+    \},\
+    \{\
+      "Apellido": "Bautista",\
+      "Nombre": "Jazmin"\
+    \},\
+    \{\
+      "Apellido": "Calvillo",\
+      "Nombre": "Angel"\
+    \},\
+    \{\
+      "Apellido": "Perez",\
+      "Nombre": "Juan"\
+    \},\
+    \{\
+      "Apellido": "Gutierrez",\
+      "Nombre": "Monserrat"\
+    \}\
+  ],\
+  "diferencia_emp1": [\
+    \{\
+      "Apellido": "Albarran",\
+      "Nombre": "Alejandra"\
+    \},\
+    \{\
+      "Apellido": "Becerra",\
+      "Nombre": "Juana"\
+    \},\
+    \{\
+      "Apellido": "Olgu\'edn",\
+      "Nombre": "Rodrigo"\
+    \},\
+    \{\
+      "Apellido": "Bautista",\
+      "Nombre": "Jazmin"\
+    \}\
+  ],\
+  "diferencia_emp2": [\
+    \{\
+      "Apellido": "Calvillo",\
+      "Nombre": "Angel"\
+    \},\
+    \{\
+      "Apellido": "Perez",\
+      "Nombre": "Juan"\
+    \},\
+    \{\
+      "Apellido": "Gutierrez",\
+      "Nombre": "Monserrat"\
+    \}\
+  ],\
+  "producto_cartesiano": [\
+    \{\
+      "Apellido1": "Albarran",\
+      "Nombre1": "Alejandra",\
+      "Apellido2": "Calvillo",\
+      "Nombre2": "Angel"\
+    \},\
+    \{\
+      "Apellido1": "Albarran",\
+      "Nombre1": "Alejandra",\
+      "Apellido2": "Perez",\
+      "Nombre2": "Juan"\
+    \},\
+    \{\
+      "Apellido1": "Albarran",\
+      "Nombre1": "Alejandra",\
+      "Apellido2": "Gutierrez",\
+      "Nombre2": "Monserrat"\
+    \},\
+    \{\
+      "Apellido1": "Albarran",\
+      "Nombre1": "Alejandra",\
+      "Apellido2": "Aranda",\
+      "Nombre2": "Magaly"\
+    \},\
+    \{\
+      "Apellido1": "Becerra",\
+      "Nombre1": "Juana",\
+      "Apellido2": "Calvillo",\
+      "Nombre2": "Angel"\
+    \},\
+    \{\
+      "Apellido1": "Becerra",\
+      "Nombre1": "Juana",\
+      "Apellido2": "Perez",\
+      "Nombre2": "Juan"\
+    \},\
+    \{\
+      "Apellido1": "Becerra",\
+      "Nombre1": "Juana",\
+      "Apellido2": "Gutierrez",\
+      "Nombre2": "Monserrat"\
+    \},\
+    \{\
+      "Apellido1": "Becerra",\
+      "Nombre1": "Juana",\
+      "Apellido2": "Aranda",\
+      "Nombre2": "Magaly"\
+    \},\
+    \{\
+      "Apellido1": "Olgu\'edn",\
+      "Nombre1": "Rodrigo",\
+      "Apellido2": "Calvillo",\
+      "Nombre2": "Angel"\
+    \},\
+    \{\
+      "Apellido1": "Olgu\'edn",\
+      "Nombre1": "Rodrigo",\
+      "Apellido2": "Perez",\
+      "Nombre2": "Juan"\
+    \},\
+    \{\
+      "Apellido1": "Olgu\'edn",\
+      "Nombre1": "Rodrigo",\
+      "Apellido2": "Gutierrez",\
+      "Nombre2": "Monserrat"\
+    \},\
+    \{\
+      "Apellido1": "Olgu\'edn",\
+      "Nombre1": "Rodrigo",\
+      "Apellido2": "Aranda",\
+      "Nombre2": "Magaly"\
+    \}\
+  ],\
+  "interseccion": [\
+    \{\
+      "Apellido": "Aranda",\
+      "Nombre": "Magaly"\
+    \}\
+  ]\
+\}\
+}
